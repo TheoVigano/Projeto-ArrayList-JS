@@ -2,8 +2,6 @@
 
 # Sobre o projeto
 
-https://theovigano.github.io/Projeto-Cake/
-
 Esse projeto é um sistema de lista de itens feito em JS
 
 Tem como obetivo crirar uma listagem de intens onde, escrevemos o produto que queremos, e adiciona na lista,
